@@ -1,1 +1,1 @@
-Dies ist eine Beispiel-Datei. 
+"Dies ist der ge„nderte Inhalt." 
